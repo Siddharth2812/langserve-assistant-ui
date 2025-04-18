@@ -1,0 +1,12 @@
+pandas
+numpy
+openai
+scikit-learn
+langchain-community
+openai
+matplotlib
+seaborn
+django
+streamlit
+data
+xgboost
